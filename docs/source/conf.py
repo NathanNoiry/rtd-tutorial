@@ -2,6 +2,9 @@
 
 # -- Project information
 
+import sys
+sys.append('../../')
+
 project = 'Lumache'
 copyright = '2021, Graziella'
 author = 'Graziella'
