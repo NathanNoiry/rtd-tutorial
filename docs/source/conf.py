@@ -3,7 +3,7 @@
 # -- Project information
 
 import sys
-sys.append('../../')
+sys.path.append('../../')
 
 project = 'Lumache'
 copyright = '2021, Graziella'
